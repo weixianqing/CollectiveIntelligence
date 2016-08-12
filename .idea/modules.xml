@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Basement/.idea/Basement.iml" filepath="$PROJECT_DIR$/../Basement/.idea/Basement.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CollectiveIntelligence.iml" filepath="$PROJECT_DIR$/.idea/CollectiveIntelligence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LeetCodePy/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/../LeetCodePy/.idea/LeetCode.iml" />
     </modules>
   </component>
 </project>
